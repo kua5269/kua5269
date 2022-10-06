@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nancy (陳彥均)</h1>
+<h1 align="left">Hi 👋, I'm Nancy Chen (陳彥均)</h1>
 <h3 align="left">A newbie frontend developer from Taiwan!</h3>
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/49401117/166612272-0c1abd5e-d5c2-4e70-bfb8-716290d7bb35.png">
