@@ -3,9 +3,11 @@
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/49401117/166612272-0c1abd5e-d5c2-4e70-bfb8-716290d7bb35.png">
 
-- 🌱 I’m currently learning ... React!
+- 🔭 I’m currently working on ... auto test process
+- 🌱 I’m currently learning ... Python!
 - 📫 How to reach me: **nancy003001@gmail.com**
 - ⚡ Fun fact: **Handsome lady concentrates on Constrained Optimization!**
+- 💬 my Web: 
 
 <p align="left">
 </p>
