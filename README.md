@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... Python!
 - 📫 How to reach me: **nancy003001@gmail.com**
 - ⚡ Fun fact: **Handsome lady concentrates on Constrained Optimization!**
-- 💬 my Web: 
+- 💬 my Web: https://cquilia.ddns.net/blog
 
 <p align="left">
 </p>
